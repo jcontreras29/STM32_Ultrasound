@@ -25,7 +25,6 @@ To measure distance with the ultrasound sensor, generate a positive “ping” p
 
 The duration of the return pulse equals the round-trip propagation time of the “ping” pulse between the sensor and the target. The distance is determined by measuring the duration of the return pulse between the rising and falling edges. Calculate the distance based on the speed of sound in air at room temperature (346 meters/second). Please refer to the technical data sheet for the ultrasound sensor for more information.
 
-Dr. Zhu’s book has a section on ultrasonic sensors that you may find helpful. I put a PDF of that section in the Reference Materials folder in myCourses Content.
 
 POST:
 Perform a Power On Self Test (POST) when the program starts.
